@@ -37,7 +37,7 @@
 //    media += temperat[index]
 //}
 //
-//console.log("La temperatura media es de: "+media/temperat.length)
+//console.log("La temperatura media es de: "media/temperat.length)
 
 //-----------------------------------------------------------//
 //
